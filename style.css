@@ -75,3 +75,17 @@ body {
     background-color: white;
   }
   
+
+
+  .kbutton{
+    position: absolute;
+    left: 8px;
+    top: 10px;
+    color: white;
+    text-decoration: none;
+    font-size: 24px;
+    border: 2px solid #DBEDF3;
+    border-radius: 4px;
+    padding: 6px 8px;
+
+  }
